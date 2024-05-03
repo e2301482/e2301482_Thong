@@ -1,0 +1,20 @@
+ 
+Interface name : Wi-Fi 
+There are 1 networks currently visible. 
+
+SSID 1 : VamkGuest
+    Network type            : Infrastructure
+    Authentication          : WPA2-Personal
+    Encryption              : CCMP 
+    BSSID 1                 : 90:4c:81:ce:39:51
+         Signal             : 86%  
+         Radio type         : 802.11ac
+         Band               : 5 GHz  
+         Channel            : 116 
+         Bss Load:
+             Connected Stations:         2
+             Channel Utilization:        3 (1 %)
+             Medium Available Capacity:  30937 (989984 us/s)
+         Basic rates (Mbps) : 24
+         Other rates (Mbps) : 36 48 54
+

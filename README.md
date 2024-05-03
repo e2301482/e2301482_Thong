@@ -3,6 +3,7 @@ My barchart
 ![image](https://github.com/e2301482/e2301482_Thong/assets/164739243/8020feaa-1ae9-4200-8328-2d1ac3008814)
 
 My data
+
 ![image](https://github.com/e2301482/e2301482_Thong/assets/164739243/41f0acde-2800-487c-8cf4-5d400346ec3c)
 
 This program will automatically retrieve the date, time, min max temperature and your current public IP address into the server's database. Then we will draw a graph of min max temperature in the database.

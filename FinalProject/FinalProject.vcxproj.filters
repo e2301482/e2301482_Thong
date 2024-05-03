@@ -15,27 +15,32 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Documents\Temp\appdev.h">
+    <ClInclude Include="appdev.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\Temp\main.c">
+    <None Include="appdev24gb.html">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="appdevGB.html">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="echo.php">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Documents\Temp\minmax.c">
+    <ClCompile Include="minmax.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\..\..\Documents\Temp\appdev24gb.html">
+    <Text Include="mydata.txt">
       <Filter>Source Files</Filter>
-    </None>
-    <None Include="..\..\..\..\Documents\Temp\appdevGB.html">
-      <Filter>Source Files</Filter>
-    </None>
-    <None Include="..\..\..\..\Documents\Temp\echo.php">
-      <Filter>Source Files</Filter>
-    </None>
+    </Text>
   </ItemGroup>
 </Project>

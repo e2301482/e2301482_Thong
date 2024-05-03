@@ -18,6 +18,21 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="appdev.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="appdev24gb.html" />
+    <None Include="appdevGB.html" />
+    <None Include="echo.php" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c" />
+    <ClCompile Include="minmax.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="mydata.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -126,18 +141,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\..\..\Documents\Temp\appdev.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\Temp\main.c" />
-    <ClCompile Include="..\..\..\..\Documents\Temp\minmax.c" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="..\..\..\..\Documents\Temp\appdev24gb.html" />
-    <None Include="..\..\..\..\Documents\Temp\appdevGB.html" />
-    <None Include="..\..\..\..\Documents\Temp\echo.php" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

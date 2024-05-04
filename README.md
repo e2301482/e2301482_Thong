@@ -25,3 +25,4 @@ How to run this app:
 3. Launch app then you see a notification "![image](https://github.com/e2301482/e2301482_Thong/assets/164739243/13224d86-a98f-41b2-b38f-35f566564937). You know that you generated data to my server.
 4. Launch this url to your brower to see the barchard: http://www.cc.puv.fi/~e2301482/appdev24gb.html
 Remember launch with http NOT HTTPS
+5. You can see my collected data here http://www.cc.puv.fi/~e2301482/mydata.txt 
